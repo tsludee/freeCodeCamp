@@ -13,3 +13,5 @@ This one was a little dry for me, but that's only because I've done an "intro to
 Again, very similar experience to the Cat Photo App - I've done this before, so it seems a little repetitive to me, but I think that's a completment more than anything, it is very thorough and helps to get your reps in.
 
 *2/20 completed 11/5/23*
+
+### Learn CSS Colors by Building a Set of Colored Markers
