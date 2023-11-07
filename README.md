@@ -31,7 +31,7 @@ This was a good course to see how to manipulate individual items with HTML/CSS t
 
 *4/20 completed 11/7/23*
 
-### *Certification Project* Survey form
+### *Certification Project* Survey Form
 
 Ok, next up is a bigger project -- my own survey form. completing this project is required for my certification. This one is cool! It's a lot less hand-holding and more "go figure it out!" Instead of step-by-step instructions, I get to write my own code and it will run test to see if I have completed all that I need to or not.
 
