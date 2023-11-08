@@ -35,4 +35,6 @@ This was a good course to see how to manipulate individual items with HTML/CSS t
 
 Ok, next up is a bigger project -- my own survey form. completing this project is required for my certification. This one is cool! It's a lot less hand-holding and more "go figure it out!" Instead of step-by-step instructions, I get to write my own code and it will run test to see if I have completed all that I need to or not.
 
-*5/20 in progress 11/7/23*
+So... this survey form... I spent about an hour and a half on it. I feel like it's hard to take it seriously when there isn't a clear use for it at the end of the workflow. The submit button doesn't do anything... and I wasn't given a clear "create a survey form for this" task. I'm not the most creative type, so it's hard to come up with a good-looking/interesting page, but I did something... and that's what matters, right?
+
+*5/20 completed 11/8/23*

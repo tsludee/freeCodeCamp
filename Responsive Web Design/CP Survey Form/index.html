@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <title>Sport Survey Form</title>
+  </head>
+  <body>
+    <div class="container">
+        <header>
+            <h1 id="title">What's your favorite sport to watch?</h1>
+        </header>
+        <p id="description">Tell us about your favorite sport</p>
+        <form id="survey-form">
+        <div class="form-group">
+            <label for="name" id="name-label">Name: <input id="name" type="text" placeholder="Enter your name" required /></label>
+        </div>
+        <div class="form-group">
+            <label for="email" id="email-label">Email: <input id="email" type="email" placeholder="Enter your email" required /></label>
+        </div>
+        <div class="form-group">
+            <label for="number" id="number-label">Age: <input type="number" id="number" min="10" max="99" placeholder="Age"/></label>
+        </div>
+        <div class="form-group">
+            <p>Have you ever played sports at a competitive level?</p>
+            <select id="dropdown">
+                <option>Please select one</option>
+                <option>Yes</option>
+                <option>No</option>
+                <option>I don't know</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <p>Do you prefer to watch sports on TV or in-person?</p>
+            <label><input type="radio" name="watch-choice" value="television" required checked/> Television</label>
+            <label><input type="radio" name="watch-choice" value="in-person" required/> In-Person</label>
+            <label><input type="radio" name="watch-choice" value="no-preference"/> No Preference</label>
+        </div>
+        <div class="form-group check">
+            <h2>Which sports do you regularly follow?</h2>
+            <label><input type="checkbox" value="soccer" /> Soccer</label>
+            <label><input type="checkbox" value="baseball" /> Baseball</label>
+            <label><input type="checkbox" value="basketball" /> Basketball</label>
+            <label><input type="checkbox" value="rugby" /> Rugby</label>
+            <label><input type="checkbox" value="none" /> None</label>
+        </div>
+        <div class="form-group">
+            <p>Do you have any favorite players or sports memories?</p>
+            <label><textarea class="input-textarea" placeholder="Enter any comments here..."></textarea></label>
+        </div>
+        <input type="submit" value="Submit" id="submit"/>
+        </form>
+    </div>
+  </body>
+</html>
